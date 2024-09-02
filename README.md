@@ -1,4 +1,4 @@
-# The-Final-Project
+# The-Final-Project of CSSM502
 The Final Project of CSSM502
 
 The script file includes code.
